@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'DIN-Light';
+   font-display: swap;
+   src: url('DIN-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Bahagia';
+   font-display: swap;
+   src: url('Bahagia/font.ttf');
+}
+@font-face {
+   font-family: 'Melting';
+   font-display: swap;
+   src: url('Melting/font.ttf');
+}
